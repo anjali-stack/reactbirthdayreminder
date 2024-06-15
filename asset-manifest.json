@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactbirthdayreminder/static/css/main.e9c6cac9.css",
+    "main.js": "/reactbirthdayreminder/static/js/main.3e5881ea.js",
+    "static/js/453.50a8c90d.chunk.js": "/reactbirthdayreminder/static/js/453.50a8c90d.chunk.js",
+    "index.html": "/reactbirthdayreminder/index.html",
+    "main.e9c6cac9.css.map": "/reactbirthdayreminder/static/css/main.e9c6cac9.css.map",
+    "main.3e5881ea.js.map": "/reactbirthdayreminder/static/js/main.3e5881ea.js.map",
+    "453.50a8c90d.chunk.js.map": "/reactbirthdayreminder/static/js/453.50a8c90d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c6cac9.css",
+    "static/js/main.3e5881ea.js"
+  ]
+}
